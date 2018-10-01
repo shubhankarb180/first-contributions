@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 - [Anton Medvedev](https://github.com/antonmdv)
+- [Abdul Khaliq](https://github.com/amkhaliq)
 - [sia4](https://github.com/sia4)
 - [Basheer88](https://github.com/Basheer88)
 - [Batey Martin](https://github.com/D3RVUN1x)
